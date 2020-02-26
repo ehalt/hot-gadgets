@@ -4,6 +4,10 @@
 
 
 
+.lmg img {
+  width:65%;
+}
+
 .navbar a{
     font-size: 20px;
     font-weight: 600;
@@ -77,6 +81,7 @@
   .imgg{
     width: 500px;
   }
+  
   
   .imgBG:hover{
     border: 1px solid orange;
